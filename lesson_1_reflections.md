@@ -8,11 +8,11 @@
 manualmente diferente de la manera automática como lo hace por ejemplo
 google-docs?_
 
-Ventajas                                | Desventajas
------------------------------------     | ---------------------------------
-Permite realizar mejores búsquedas      | Pérdida de datos en algunos casos
-Permite hacerlo de manera personalizada  | Mayor responsabilidad
-Permite opciones como los mensajes       | Mayor curva de Aprendizaje
+| Ventajas                                 | Desventajas                       |
+| ---------------------------------------- | --------------------------------- |
+| Permite realizar mejores búsquedas       | Pérdida de datos en algunos casos |
+| Permite hacerlo de manera personalizada  | Mayor responsabilidad             |
+| Permite opciones como los mensajes       | Mayor curva de Aprendizaje        |
 
 *   _¿ Por qué usted cree que algunos controles de versiones como git permiten
 guardar multiples archivos en un commut  mientras que otros como google-docs
